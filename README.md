@@ -4,5 +4,5 @@
 
 Arch Packages used:
 ```
-yay -S hyprland waybar swww 
+yay -S hyprland waybar swww wofi
 ```
