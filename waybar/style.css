@@ -5,6 +5,7 @@
   font-size: 12px;
   font-weight: 600;
   margin-top: 3px;
+  margin-left: 2px;
 }
 
 window#waybar {
@@ -99,7 +100,7 @@ window#waybar.empty #window {
 }
 
 #pulseaudio {
-  color: #b4befe;
+  color: #89b4fa;
 }
 
 #pulseaudio.muted {
@@ -122,6 +123,7 @@ tooltip {
 
 #custom-music.Playing {
     animation:cubic-bezier(0.95, 0.05, 0.795, 0.035);
+    background-size: 400% 400%;
     font-weight: bold;
     color: #89b4fa;
     padding: 0.8rem 0.8rem;
