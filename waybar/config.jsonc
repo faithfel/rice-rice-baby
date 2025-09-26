@@ -8,7 +8,7 @@
   "passthrough": false,
   "fixed-center": true,
   "modules-left": ["hyprland/workspaces", "hyprland/window"],
-  "modules-center": ["mpris"],
+  "modules-center": ["custom/music"],
   "modules-right": [
     "cpu",
     "memory",
@@ -20,7 +20,7 @@
     "custom/power",
   ],
   "custom/spotify": {
-    "format": "  {}",
+    "format": "  {",
     "return-type": "json",
     "on-click": "playerctl -p spotify play-pause",
     "on-click-right": "spotifatius toggle-liked",
@@ -112,4 +112,23 @@
     "return-type": "json",
     "tooltip": false,
   },
+
+
+"custom/music": {
+    "format": "{icon}{text}",
+    "format-icons": {
+        //"Playing": " ", // Uncomment if not using caway
+        "Paused": " ",
+        "Stopped": "&#x202d;ﭥ " // This stop symbol is RTL. So &#x202d; is left-to-right override.
+    },
+    "escape": false,
+    "tooltip": true,
+    "exec": "/home/august/.config/waybar/caway",
+    "return-type": "json",
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl previous",
+    "on-scroll-down": "playerctl next",
+    "on-click-right": "g4music",
+    "max-length": 35
+}
 }
