@@ -26,3 +26,7 @@ My Super Key has been changed to ALT
 | ALT M         |      Menu     |
 | ALT J         |  Toggle Split |
 
+# WAYBAR
+
+### Credits
+[Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
