@@ -28,7 +28,7 @@ My Super Key has been changed to ALT
 
 # WAYBAR
 
-### Credits
+### Credits:
 Inspired by:
 [Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
 
