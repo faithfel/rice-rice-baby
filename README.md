@@ -13,5 +13,10 @@ yay -S hyprland waybar swww wofi
 ```
 sudo pacman -S hyprland
 ```
-
+### Keybinds:
 My Super Key has been changed to ALT
+
+| Action        |  Key Binds   |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
