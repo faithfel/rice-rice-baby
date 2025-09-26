@@ -31,7 +31,9 @@ My Super Key has been changed to ALT
 ### Credits
 Inspired by:
 [Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
-And Also Using Caway:
+
+And Also Using Caway: 
+[PROxZIMA's Caway](https://github.com/PROxZIMA/caway)
 
 
 # Autostart in Hyprland:
