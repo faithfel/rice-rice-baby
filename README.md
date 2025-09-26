@@ -18,5 +18,10 @@ My Super Key has been changed to ALT
 
 | Action        |  Key Binds   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ATL Q  | Terminal  |
+| ALT X | Kill Active |
+| ALT 0 | Exit Hyprland|
+| ALT W| File Manager|
+| ALT F| Toggle Floating |
+| ALT M | Menu |
+| ALT J| Toggle Split |
