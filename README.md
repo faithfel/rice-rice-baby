@@ -25,3 +25,4 @@ My Super Key has been changed to ALT
 | ALT F         |Toggle Floating|
 | ALT M         |      Menu     |
 | ALT J         |  Toggle Split |
+
