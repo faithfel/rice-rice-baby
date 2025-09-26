@@ -11,7 +11,7 @@
   "modules-center": ["custom/music"],
   "modules-right": [
     "cpu",
-    "memory",
+    "network",
     "pulseaudio",
     "clock",
     "clock#simpleclock",
@@ -78,9 +78,16 @@
     "tooltip": true,
     "interval": 1,
   },
-  "memory": {
-    "format": " {used:0.1f}Gi",
+
+  "network": {
+    "format-ethernet": "{bandwidthTotalBytes}:",
+    "format-linked": "{bandwidthTotalBytes}:",
+    "tooltip":true,
+    "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
+	  "tooltip-format-ethernet": "{essid} ({signalStrength}%) ",
+    "format-disconnected": "{}",
   },
+
   "pulseaudio": {
     "format": "{icon} {volume}%",
     "format-muted": "  muted",
