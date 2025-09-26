@@ -29,4 +29,10 @@ My Super Key has been changed to ALT
 # WAYBAR
 
 ### Credits
+Inspired by:
 [Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
+
+# Autostart in Hyprland:
+```
+exec-once = waybar
+```
