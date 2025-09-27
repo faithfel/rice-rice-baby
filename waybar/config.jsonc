@@ -47,7 +47,7 @@
     "active-only": false,
   },
   "hyprland/window": {
-    "format": "|{title}|",
+    "format": "| {title}| ",
   },
   "tray": {
     "show-passive-items": true,
