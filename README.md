@@ -7,6 +7,20 @@
 ```
 yay -S hyprland waybar swww wofi
 ```
+
+# WAYBAR
+
+### Credits:
+Inspired by:
+[Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
+
+And Also Using Caway: 
+[PROxZIMA's Caway](https://github.com/PROxZIMA/caway)
+
+![waybar screenshot](https://github.com/faithfel/rice-rice-baby/blob/main/screenshots/waybar%20screenshot.png)
+
+
+
 # HYPRLAND
 ### Hyprland Installation:
 
@@ -40,17 +54,6 @@ yay -S grimblast
 | ALT K         |Save area to clipboard |
 | ALT O         |Capture full output to clipboard |
 | ALT P         |Save full output to file|
-
-# WAYBAR
-
-### Credits:
-Inspired by:
-[Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
-
-And Also Using Caway: 
-[PROxZIMA's Caway](https://github.com/PROxZIMA/caway)
-
-![waybar screenshot](https://github.com/faithfel/rice-rice-baby/blob/main/screenshots/waybar%20screenshot.png)
 
 
 ### Autostart in Hyprland:
