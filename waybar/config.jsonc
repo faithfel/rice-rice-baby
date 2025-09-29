@@ -81,7 +81,7 @@
 
   "network": {
     "format-ethernet": "  {bandwidthTotalBytes}",
-    "format-linked": " {bandwidthTotalBytes}",
+    "format-linked": " {bandwidthTotalBytes}",
     "tooltip":true,
     "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
 	  "tooltip-format-ethernet": "{essid} ({signalStrength}%) ",
@@ -123,8 +123,10 @@
 "custom/music": {
     "format": "| {text} |",
     "format-icons": {
+        //"Playing": " ", // Uncomment if not using caway
         "Paused": " ",
-        "Stopped": "&#x202d;ﭥ ",
+        "Stopped": "&#x202d;ﭥ " // This stop symbol is RTL. So &#x202d; is left-to-right override.
+    },
     "escape": false,
     "tooltip": true,
     "exec": "/home/august/.config/waybar/caway",
@@ -134,6 +136,5 @@
     "on-scroll-down": "playerctl next",
     "on-click-right": "g4music",
     "max-length": 35
-}
 }
 }
