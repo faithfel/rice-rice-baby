@@ -1,7 +1,7 @@
 window {
     margin: 0px;
-    border: 1px solid #ffffff;
-    background-color: #000000;
+    border: 1px solid #89b4fa;
+    background-color: rgba(13, 13, 19, 0.658);
     border-radius: 10px;
 }
 
@@ -9,19 +9,20 @@ window {
     margin: 5px;
     border: none;
     color: #f8f8f2;
-    background-color: #000000;
+    background-color: rgba(13, 13, 19, 0.4);
 }
 
 #inner-box {
     margin: 5px;
     border: none;
-    background-color: #000000;
-}
+    background-color: rgba(13, 13, 19, 0.4);
+
+}   
 
 #outer-box {
     margin: 5px;
     border: none;
-    background-color: #000000;
+    background-color: rgba(13, 13, 19, 0.4);
 }
 
 #scroll {
@@ -37,7 +38,7 @@ window {
 }
 
 #entry.activatable #text {
-    color: #1b1b1b;
+    color: #40408a;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -46,11 +47,11 @@ window {
 }
 
 #entry:selected {
-    background-color: #1b1b1b;
+    background-color: #89b4fa;
 }
 
 #entry:selected #text {
     font-weight: bold;
     color: #ffffff;
-    text-shadow: 0 0 5px #ffffff;
-}
+   
+}                                                           
