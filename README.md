@@ -46,6 +46,8 @@ yay -S grimblast
 Inspired by:
 [Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
 
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+
 And Also Using Caway: 
 [PROxZIMA's Caway](https://github.com/PROxZIMA/caway)
 
