@@ -38,7 +38,7 @@ yay -S grimblast
 | ------------- | ------------- |
 | ALT I         |Capture area to clipboard |
 | ALT K         |Save area to clipboard |
-| ALT O         |Capture full output to clipboard
+| ALT O         |Capture full output to clipboard |
 | ALT P         |Save full output to file|
 
 # WAYBAR
