@@ -1,5 +1,5 @@
 # FAITH ARCH LINUX RICE 🍚 ⋆˙⟡
-~~This is currently still a working progress. More updates to come as I adjust and add more to my rice.~~
+> ~~This is currently still a working progress. More updates to come as I adjust and add more to my rice.~~
 
 
 
@@ -11,9 +11,8 @@ yay -S hyprland waybar swww wofi
 # WAYBAR
 
 ### Credits:
-Inspired by:
+> Inspired by:
 [Bruno Anesio's Waybar](https://github.com/brunoanesio/waybar-config)
-
 And Also Using Caway: 
 [PROxZIMA's Caway](https://github.com/PROxZIMA/caway)
 
@@ -32,7 +31,7 @@ My Super Key has been changed to ALT
 
 | Action        |  Key Binds    |
 | ------------- | ------------- |
-| ATL Q         |     Terminal  |
+| ALT Q         |     Terminal  |
 | ALT X         |   Kill Active |
 | ALT 0         |  Exit Hyprland|
 | ALT W         |   File Manager|
@@ -40,7 +39,7 @@ My Super Key has been changed to ALT
 | ALT M         |      Menu     |
 | ALT J         |  Toggle Split |
 
-## Addtional KeyBinds
+## Additional KeyBinds
 Hyprshot with Grimblast for screenshots
 
 Installation:
@@ -61,4 +60,6 @@ yay -S grimblast
 exec-once = waybar
 ```
 
+# Troubleshooting
 
+- [Waybar Clock Incorrect (only showing UTC time)] (https://bbs.archlinux.org/viewtopic.php?id=299285)
