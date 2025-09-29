@@ -27,10 +27,16 @@ My Super Key has been changed to ALT
 | ALT J         |  Toggle Split |
 
 ## Addtional KeyBinds
-#HYPRSHOT
+# HYPRSHOT WITH GRIMBLAST
 ```
 yay -S hyprshot
+yay -S grimblast
 ```
+| Action        |  Key Binds    |
+| ------------- | ------------- |
+| ALT I         |Capture area to clipboard |
+| ALT O         |Capture active window to clipboard
+| ALT P         |Save full output to file|
 
 # WAYBAR
 
