@@ -26,6 +26,12 @@ My Super Key has been changed to ALT
 | ALT M         |      Menu     |
 | ALT J         |  Toggle Split |
 
+## Addtional KeyBinds
+#HYPRSHOT
+```
+yay -S hyprshot
+```
+
 # WAYBAR
 
 ### Credits:
@@ -40,3 +46,5 @@ And Also Using Caway:
 ```
 exec-once = waybar
 ```
+
+
