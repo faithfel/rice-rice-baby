@@ -28,6 +28,8 @@ My Super Key has been changed to ALT
 
 ## Addtional KeyBinds
 # HYPRSHOT WITH GRIMBLAST
+
+Installation:
 ```
 yay -S hyprshot
 yay -S grimblast
