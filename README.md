@@ -62,4 +62,4 @@ exec-once = waybar
 
 # Troubleshooting
 
-- [Waybar Clock Incorrect (only showing UTC time)] (https://bbs.archlinux.org/viewtopic.php?id=299285)
+- [Waybar Clock Incorrect or only showing UTC time](https://bbs.archlinux.org/viewtopic.php?id=299285)
