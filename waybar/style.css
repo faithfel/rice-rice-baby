@@ -6,22 +6,19 @@
   font-weight: 600;
   margin-top: 3px;
   margin-left: 2px;
+  margin-right: 2px;
 }
 
 window#waybar {
   transition-property: background-color;
   transition-duration: 0.5s;
-  /* background-color: #1e1e2e; */
-  /* background-color: #181825; */
   background: none;
-  /* background-color: rgba(24, 24, 37, 0.6); */
 }
 
 #workspaces button {
   padding: 0.3rem 0.6rem;
   margin: 0.4rem 0.25rem;
   border-radius: 15px;
-  /* background-color: #181825; */
   background-color: #1e1e2e;
   color: #cdd6f4;
 }
@@ -57,7 +54,6 @@ window#waybar {
   margin: 0.4rem 0.25rem;
   margin-left: 3px;
   border-radius: 15px;
-  /* background-color: #181825; */
   background-color: #1e1e2e;
   
 }
@@ -113,6 +109,7 @@ window#waybar.empty #window {
 
 #custom-power {
   color: #f38ba8;
+  padding: 7px;
 }
 
 tooltip {
