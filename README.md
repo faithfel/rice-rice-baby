@@ -27,7 +27,7 @@ My Super Key has been changed to ALT
 | ALT J         |  Toggle Split |
 
 ## Addtional KeyBinds
-# HYPRSHOT WITH GRIMBLAST
+Hyprshot with Grimblast for screenshots
 
 Installation:
 ```
