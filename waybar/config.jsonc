@@ -55,7 +55,7 @@
   },
   "clock#simpleclock": {
     "tooltip": false,
-    "format": " {:%H:%M}",
+    "format": " {:%I:%M %p}",
   },
   "clock": {
     "format": " {:L%a %d %b}",
@@ -121,7 +121,7 @@
   },
 
 "custom/music": {
-    "format": "| {text} |",
+    "format": "「 {text} 」",
     "format-icons": {
         //"Playing": " ", // Uncomment if not using caway
         "Paused": " ",
