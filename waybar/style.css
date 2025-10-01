@@ -123,7 +123,6 @@ tooltip {
     background-size: 400% 400%;
     font-weight: bold;
     color: #89b4fa;
-    padding: 0.8rem 0.8rem;
     margin: 0.4rem 0.25rem;
     margin-left: 3px;
     border-radius: 15px;
@@ -144,4 +143,4 @@ tooltip {
     margin-left: 3px;
     border-radius: 15px;
     background-color: #1e1e2e;
-}
+}                         
